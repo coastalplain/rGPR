@@ -1,5 +1,5 @@
 # rGPR
-Tools to work with various GPR data files.  FIRST, navigation to shapefile.
+Tools to work with various ground-penetrating radar (GPR) data files.  FIRST, navigation to shapefile.
 
 rGPR is just starting.  It should be a system used to recursively find any type of GPR files on your system, 
 create ArcGIS shapefiles or file geodatabases, and create point and line files from navigation in the field.  
